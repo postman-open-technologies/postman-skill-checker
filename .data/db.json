@@ -1,0 +1,29 @@
+{
+  "learners": [
+    {
+      "id": 1,
+      "email": "sue.smith@postman.com",
+      "methods": 0,
+      "bodies": "",
+      "auth": "",
+      "vars": "",
+      "script": 0,
+      "rand": "Sue"
+    }
+  ],
+  "count": 1,
+  "calls": [
+    {
+      "when": "Tue May 23 2023 19:57:50 GMT+0000 (Coordinated Universal Time)",
+      "where": "GET /"
+    },
+    {
+      "when": "Tue May 23 2023 19:57:56 GMT+0000 (Coordinated Universal Time)",
+      "where": "GET /"
+    },
+    {
+      "when": "Tue May 23 2023 19:58:22 GMT+0000 (Coordinated Universal Time)",
+      "where": "GET /"
+    }
+  ]
+}

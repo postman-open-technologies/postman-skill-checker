@@ -1,0 +1,27 @@
+{
+  "name": "postman-skill-checker",
+  "version": "1.0.0",
+  "repository": "https://github.com/postman-open-technologies/postman-skill-checker",
+  "author": "Bello Gbadebo <gbahdeybohbello@gmail.com>",
+  "license": "MIT",
+  "description": "Rest API Example",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.0",
+    "body-parser": "^1.19.0",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "faker": "^5.1.0",
+    "lowdb": "^1.0.0",
+    "ms": "^2.1.2",
+    "xml": "^1.0.1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api"
+  ]
+}
