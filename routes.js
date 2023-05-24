@@ -43,7 +43,7 @@ var routes = function(app) {
       message:
         "Use the API 101 template in Postman to learn API basics! Import the collection in Postman by clicking " +
         "New > Templates, and searching for 'API 101'. Open the first request in the collection and click Send. " +
-        "To see the API code navigate to https://glitch.com/edit/#!/api-101 in your web browser"
+        "To see the API code navigate to https://github.com/postman-open-technologies/postman-skill-checker in your web browser"
     });
   });
 
